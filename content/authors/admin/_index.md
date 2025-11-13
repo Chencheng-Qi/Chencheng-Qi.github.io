@@ -27,7 +27,8 @@ role: Machine Learning Research
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Machine Learning Research
+  - name: Email c.qi@ufl.edu
+  - name: Phone +1 3522461488
     # url: https://ai.meta.com/
 
 # Social network links
@@ -177,4 +178,3 @@ I enjoy combining rigorous engineering with practical, real-world applications. 
 
 Outside of research, I enjoy hiking, painting, photography, and exploring creative ways to connect art with technology.
 
-#  Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
