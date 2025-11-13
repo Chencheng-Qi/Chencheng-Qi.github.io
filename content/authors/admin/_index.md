@@ -169,5 +169,12 @@ awards:
     summary: |
       Recognized for contributions to scaling laws in deep learning.
 ---
+I am Chencheng (Charlotte) Qi, a graduate student in Electronic & Computer Engineering at the University of Florida, focusing on Machine Learning and Computer Vision. My work centers on building robust learning systems for visual understanding, medical imaging, and multimodal signal analysis.
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+At UF, I developed efficient data pipelines and attention-enhanced deep learning models for American Sign Language classification, and improved 3D brain MRI segmentation by integrating Swin-UNet features into nnU-Net. Previously, I created a large-scale masked facial expression dataset, designed a Swin Transformer–based model for occluded expression recognition, and explored non-contact heart-rate estimation using FastICA and ICEEMDAN.
+
+I enjoy combining rigorous engineering with practical, real-world applications. My broader research interests include representation learning, multimodal fusion, and human-centered AI. Ultimately, I aim to develop reliable, interpretable, and deployable machine learning systems, especially in healthcare and understanding human behavior.
+
+Outside of research, I enjoy hiking, painting, photography, and exploring creative ways to connect art with technology.
+
+# Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
