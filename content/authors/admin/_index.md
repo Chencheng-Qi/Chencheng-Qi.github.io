@@ -55,32 +55,32 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: MS Electrical and Computer Engineering (ML Focus)
+    institution: University of Florida
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2023-08-23
+    date_end: 2025-05-07
+    GPA: 3.7/4.0
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: MS Electronic Information
+    institution: Hebei University of Technology
     icon: ""
-    date_start: 2013-09-01
+    date_start: 2020-09-01
+    date_end: 2023-05-31
+    summary: |
+      GPA: 89.6/100。0
+      Specialized in machine learning and Signal Processing.
+  - area: BS Electrical Engineering
+    institution: Heilongjiang University
+    icon: ""
+    date_start: 2011-09-01
     date_end: 2015-05-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+      GPA: 84.7/100.0
 
       Minored in Mathematics. President of AI Club.
 
@@ -123,24 +123,24 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Hiking
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Photography 
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+       # icon: cpu-chip
+      - name: Painting
         description: ''
         percent: 70
-        icon: book-open
+      #  icon: book-open
 
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
