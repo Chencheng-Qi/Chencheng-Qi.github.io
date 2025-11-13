@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Chencheng Qi
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Chencheng
+last_name: Qi
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
@@ -41,13 +41,14 @@ profiles:
   - icon: brands/github
     url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/chencheng-qi-5820292ab
+#   - icon: academicons/google-scholar
+#     url: https://scholar.google.com/citations?user=alexjohnson
+#   - icon: academicons/orcid
+#     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
+  - Machine Learning
   - Large Language Models
   - Computer Vision
   - Reinforcement Learning
