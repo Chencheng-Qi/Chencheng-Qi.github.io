@@ -34,10 +34,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'c.qi@ufl.edu'
+    url: c.qi@ufl.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+#  - icon: brands/x
+#    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/Chencheng-Qi
   - icon: brands/linkedin
@@ -177,4 +177,4 @@ I enjoy combining rigorous engineering with practical, real-world applications. 
 
 Outside of research, I enjoy hiking, painting, photography, and exploring creative ways to connect art with technology.
 
-# Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+#  Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
