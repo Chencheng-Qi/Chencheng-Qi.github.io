@@ -27,16 +27,16 @@ role: Machine Learning Research
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Email c.qi@ufl.edu
-  - name: Phone +1 3522461488
+  - name: c.qi@ufl.edu
+  - name: +1 3522461488
     # url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: c.qi@ufl.edu
-    label: E-mail Me
+#  - icon: at-symbol
+#    url: c.qi@ufl.edu
+#    label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
@@ -50,8 +50,8 @@ profiles:
 
 interests:
   - Machine Learning
-  - Large Language Models
   - Computer Vision
+  - Large Language Models
   - Reinforcement Learning
   - AI Ethics
 
@@ -62,11 +62,11 @@ education:
     date_start: 2023-08-23
     date_end: 2025-05-07
     GPA: 3.7/4.0
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+  #  summary: |
+  #    Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+  #  button:
+  #    text: 'Read Thesis'
+  #    url: 'https://example.com/thesis.pdf'
   - area: MS Electronic Information
     institution: Hebei University of Technology
     icon: ""
@@ -83,7 +83,7 @@ education:
     summary: |
       GPA: 84.7/100.0
 
-      Minored in Mathematics. President of AI Club.
+     # Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
@@ -108,7 +108,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python & PyTorch & Tensorflow
         description: ''
         percent: 95
         icon: code-bracket
@@ -174,7 +174,5 @@ I am Chencheng (Charlotte) Qi, a graduate student in Electronic & Computer Engin
 
 At UF, I developed efficient data pipelines and attention-enhanced deep learning models for American Sign Language classification, and improved 3D brain MRI segmentation by integrating Swin-UNet features into nnU-Net. Previously, I created a large-scale masked facial expression dataset, designed a Swin Transformer–based model for occluded expression recognition, and explored non-contact heart-rate estimation using FastICA and ICEEMDAN.
 
-I enjoy combining rigorous engineering with practical, real-world applications. My broader research interests include representation learning, multimodal fusion, and human-centered AI. Ultimately, I aim to develop reliable, interpretable, and deployable machine learning systems, especially in healthcare and understanding human behavior.
-
-Outside of research, I enjoy hiking, painting, photography, and exploring creative ways to connect art with technology.
+I enjoy combining rigorous engineering with practical, real-world applications. My broader research interests include representation learning, multimodal fusion, and human-centered AI. Ultimately, I aim to develop reliable, interpretable, and deployable machine learning systems, especially in healthcare and understanding human behavior. Outside of research, I enjoy hiking, painting, photography, and exploring creative ways to connect art with technology.
 
