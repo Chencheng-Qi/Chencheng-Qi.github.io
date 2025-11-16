@@ -34,11 +34,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+    My research focuses on Machine Learning, Computer Vision, and multimodal signal processing. I work on building reliable and efficient learning systems for visual understanding and healthcare-related applications. My recent projects include developing attention-enhanced deep learning models for American Sign Language recognition, improving 3D brain MRI segmentation using hybrid Swin-UNet architectures, and designing robust methods for facial expression recognition under mask occlusion. I have also explored non-contact physiological signal analysis, such as heart-rate estimation from facial video using FastICA and ICEEMDAN.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+   Overall, I aim to create machine learning methods that are accurate, interpretable, and deployable in real-world human-centered scenarios😃
     design:
       columns: '1'
   - block: collection
