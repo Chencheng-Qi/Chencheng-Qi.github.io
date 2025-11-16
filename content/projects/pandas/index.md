@@ -1,5 +1,5 @@
 ---
-title: Pandas
+title: Facial Expression Recognition with Mask Occlusion
 date: 2023-10-26
 links:
   - type: site
@@ -9,7 +9,12 @@ tags:
   - HugoBlox
   - Markdown
 ---
+Step1. Base on Swin Transformer combine with attention mechanism
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Step2. Pix2Pix-based GAN Network for Generative ImageRestoration
+
+Step3. Real-time Interactive Interface video on YouTube：https://www.youtube.com/watch?v=bKW6x7PueIo
+
+
 
 <!--more-->
