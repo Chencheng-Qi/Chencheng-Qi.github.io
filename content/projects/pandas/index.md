@@ -4,12 +4,12 @@ date: 2023-10-26
 links:
   - type: site
     url: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+# tags:
+#  - Hugo
+#  - HugoBlox
+#  - Markdown
 ---
-Step1. Base on Swin Transformer combine with attention mechanism
+Step1. Based on Swin Transformer combine with attention mechanism
 
 Step2. Pix2Pix-based GAN Network for Generative ImageRestoration
 
