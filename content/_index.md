@@ -50,19 +50,19 @@ sections:
   # ─────────────────────────────
   # 3. Featured Publications（精选论文）
   # ─────────────────────────────
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      subtitle: ''
-      text: ''
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+ # - block: collection
+ #   id: papers
+ #   content:
+ #     title: Featured Publications
+ #     subtitle: ''
+ #     text: ''
+ #     filters:
+ #       folders:
+ #         - publications
+ #       featured_only: true
+ #   design:
+ #     view: article-grid
+ #     columns: 2
 
   # ─────────────────────────────
   # 4. Recent Publications（最近论文）
