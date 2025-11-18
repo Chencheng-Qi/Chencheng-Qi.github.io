@@ -70,7 +70,7 @@ sections:
   - block: collection
     id: recent-publications
     content:
-      title: papers
+      title: Papers
       subtitle: ''
       text: ''
       filters:
