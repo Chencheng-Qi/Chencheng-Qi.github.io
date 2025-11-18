@@ -73,7 +73,7 @@ education:
     date_start: 2020-09-01
     date_end: 2023-05-31
     summary: |
-      GPA: 89.6/100。0
+      GPA: 89.6/100.0
       Specialized in machine learning and Signal Processing.
   - area: BS Electrical Engineering
     institution: Heilongjiang University
@@ -86,14 +86,18 @@ education:
      # Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Machine Learning Researcher
+    company_name: University of Florida
+   # company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2023-12-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+      Working on American Sign Language (ASL) character classification with a dataset of 43,000 images (200 GB).  
+      Improving 3D brain MRI segmentation using hybrid Swin-UNet architectures and attention mechanisms.  
+      Exploring spectral reconstruction and medical image analysis with PyTorch and Python.  
+
+### Machine Learning Researcher  Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: AI Research Intern
     company_name: OpenAI
     company_url: 'https://openai.com/'
