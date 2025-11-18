@@ -98,25 +98,42 @@ work:
       Exploring spectral reconstruction and medical image analysis with PyTorch and Python.  
 
 ### Machine Learning Researcher  Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+  - position: Machine Learning Researcher
+    company_name: Hebei University of Technology
+    # company_url: 'https://openai.com/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2020-09-01
+    date_end: 2023-05-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Developed facial expression recognition models under mask occlusion using ResNet, VGG19, and Swin Transformer.  
+      Built a GAN-based pipeline to repair occluded facial expressions and a real-time expression detection system.  
+      Worked on non-contact heart-rate estimation from facial video using FastICA and ICEEMDAN.
+    
+  - position: Research Assistant
+    company_name: Tsinghua University
+    # company_url: 'https://openai.com/'
+    icon: ''
+    date_start: 2018-03-01
+    date_end: 2019-04-31
+    summary: |
+      Design & Implementation of Laboratory Detection Control System based on PLC.
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch & Tensorflow
+      - name: Python & Java & C++ & SQL & MATLAB
         description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: PyTorch & Tensorflow & Keras & scikit-learn & CUDA
+        description: ''
+        percent: 95
+        icon: code-bracket
+      - name: Machine Learning & Computer Vision & Large Language Model
         description: ''
         percent: 100
         icon: chart-bar
