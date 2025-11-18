@@ -68,7 +68,7 @@ sections:
   # 4. Recent Publications（最近论文）
   # ─────────────────────────────
   - block: collection
-    id: recent-publications
+    id: Papers
     content:
       title: Papers
       subtitle: ''
