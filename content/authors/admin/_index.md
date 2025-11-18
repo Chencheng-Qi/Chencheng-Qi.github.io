@@ -114,7 +114,7 @@ work:
     # company_url: 'https://openai.com/'
     icon: ''
     date_start: 2018-03-01
-    date_end: 2019-04-31
+    date_end: 2019-04-30
     summary: |
       Design & Implementation of Laboratory Detection Control System based on PLC.
 
