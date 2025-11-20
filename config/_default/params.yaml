@@ -60,3 +60,4 @@ features:
     enable: false
     
 enableDemo: false
+autoSections: false
