@@ -1,1 +1,11 @@
+/* Increase navbar font size */
+.navbar .navbar-nav .nav-link {
+    font-size: 1.2rem;  /* 默认 1rem，你改成更大即可 */
+    font-weight: 600;   /* 变更粗，optional */
+}
 
+/* Make brand/logo text bigger */
+.navbar-brand {
+    font-size: 1.5rem;  
+    font-weight: 700;
+}
