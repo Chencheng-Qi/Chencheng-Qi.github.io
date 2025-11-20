@@ -1,11 +1,17 @@
 /* Increase navbar font size */
 .navbar .navbar-nav .nav-link {
-    font-size: 1.2rem;  /* 默认 1rem，你改成更大即可 */
+    font-size: 1.8rem;  /* 默认 1rem，你改成更大即可 */
     font-weight: 600;   /* 变更粗，optional */
 }
 
 /* Make brand/logo text bigger */
 .navbar-brand {
-    font-size: 1.5rem;  
+    font-size: 1.8rem;  
     font-weight: 700;
+}
+/* 隐藏项目页面底部的社交分享按钮 */
+.article-share,
+.article-metadata .network-icon,
+.network-icon {
+    display: none !important;
 }
