@@ -1,0 +1,20 @@
+/* 导航栏字体变大 */
+header nav a {
+  font-size: 1.2rem !important;
+  font-weight: 600 !important;
+}
+
+/* 隐藏 X 和 Facebook 图标 */
+a[href*="facebook.com"],
+a[href*="twitter.com"],
+a[href*="x.com"] {
+  display: none !important;
+}
+
+/* 隐藏项目底部的 share 图标 */
+.article-links,
+.article-links *,
+.network-icon,
+.network-icon * {
+  display: none !important;
+}
