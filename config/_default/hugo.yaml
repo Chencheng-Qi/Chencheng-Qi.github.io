@@ -53,3 +53,7 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+  
+params:
+  enableDemo: false
+  autoSections: false
