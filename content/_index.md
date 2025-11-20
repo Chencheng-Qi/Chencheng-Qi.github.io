@@ -67,16 +67,16 @@ sections:
   # ─────────────────────────────
   # 4. Recent Publications（最近论文）
   # ─────────────────────────────
-  - block: collection
-    id: Papers
-    content:
-      title: Papers
-      subtitle: ''
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: true
-    design:
-      view: citation
+#  - block: collection
+#    id: Papers
+#    content:
+#      title: Papers
+#      subtitle: ''
+#      text: ''
+#      filters:
+#        folders:
+#          - publications
+#        exclude_featured: true
+#    design:
+#      view: citation
 ---
