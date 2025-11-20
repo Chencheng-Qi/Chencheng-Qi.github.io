@@ -9,10 +9,6 @@ en:
       - name: Bio
         url: /
         weight: 10
-        
-      - name: Papers
-        url: /papers/
-        weight: 15
 
       - name: Experience
         url: /experience/
@@ -21,3 +17,7 @@ en:
       - name: Projects
         url: /projects/
         weight: 30
+
+      - name: Papers
+        url: /papers/
+        weight: 40
