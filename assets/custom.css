@@ -1,17 +1,52 @@
-/* Increase navbar font size */
-.navbar .navbar-nav .nav-link {
-    font-size: 1.8rem;  /* 默认 1rem，你改成更大即可 */
-    font-weight: 600;   /* 变更粗，optional */
+/* =========================
+   1. 顶部导航栏字体变大
+   ========================= */
+
+/* 左侧名字 “Chencheng Qi” */
+header .logo,
+header .logo a,
+header .navbar-brand,
+header .navbar-brand span,
+header .logo-text {
+  font-size: 1.4rem !important;  /* 调整标题大小 */
+  font-weight: 700 !important;   /* 更粗一些 */
 }
 
-/* Make brand/logo text bigger */
-.navbar-brand {
-    font-size: 1.8rem;  
-    font-weight: 700;
+/* 右侧菜单：Bio / Experience / Projects / Papers */
+header nav a,
+header .navbar-nav a,
+header .nav-link {
+  font-size: 1.1rem !important;  /* 菜单文字变大 */
+  font-weight: 600 !important;
 }
-/* 隐藏项目页面底部的社交分享按钮 */
+
+/* 如果感觉太大/太小，可以自己改 1.1 / 1.4 的数值 */
+
+
+/* =========================
+   2. 隐藏项目页面底部的社交分享按钮
+   ========================= */
+
+/* 先粗暴隐藏所有 share 区块（大概率就能覆盖到） */
 .article-share,
-.article-metadata .network-icon,
-.network-icon {
-    display: none !important;
+.article-share *,
+.article-links,
+.article-links * {
+  display: none !important;
+}
+
+/* 再保险：隐藏页面中所有社交 network-icon 图标 */
+.network-icon,
+.network-icon * {
+  display: none !important;
+}
+
+/* =========================
+   3. 精准隐藏指向 X/Twitter 和 Facebook 的链接（如果模板里还有）
+   ========================= */
+
+a[href*="twitter.com"],
+a[href*="x.com"],
+a[href*="facebook.com"] {
+  display: none !important;
 }
