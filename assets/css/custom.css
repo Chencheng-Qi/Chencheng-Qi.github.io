@@ -7,7 +7,8 @@ header nav a {
 /* 隐藏 X 和 Facebook 图标 */
 a[href*="facebook.com"],
 a[href*="twitter.com"],
-a[href*="x.com"] {
+a[href*="x.com"] 
+a[href*="whatsapp.com"]{
   display: none !important;
 }
 
@@ -17,4 +18,9 @@ a[href*="x.com"] {
 .network-icon,
 .network-icon * {
   display: none !important;
+}
+
+/* Force 2-column layout for the projects grid on large screens */
+#projects-grid .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
 }
