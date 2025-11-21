@@ -20,7 +20,6 @@ a[href*="whatsapp.com"]{
   display: none !important;
 }
 
-/* Force 2-column layout for the projects grid on large screens */
 #projects-grid .grid {
     grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
 }
