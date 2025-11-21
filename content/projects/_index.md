@@ -13,7 +13,7 @@ sections:
     id: projects-grid
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are selection of projects that I have worked on over the years.
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - projects
@@ -24,3 +24,4 @@ sections:
       show_date: false
       show_read_time: false
       show_read_more: false
+---
