@@ -62,11 +62,7 @@ education:
     date_start: 2023-08-23
     date_end: 2025-05-07
     GPA: 3.7/4.0
-  #  summary: |
-  #    Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-  #  button:
-  #    text: 'Read Thesis'
-  #    url: 'https://example.com/thesis.pdf'
+
   - area: MS Electronic Information
     institution: Hebei University of Technology
     icon: ""
@@ -74,7 +70,8 @@ education:
     date_end: 2023-05-31
     summary: |
       GPA: 89.6/100.0
-      Specialized in machine learning and Signal Processing.
+      Specialized in machine learning and signal processing.
+
   - area: BS Electrical Engineering
     institution: Heilongjiang University
     icon: ""
@@ -83,21 +80,18 @@ education:
     summary: |
       GPA: 84.7/100.0
 
-     # Minored in Mathematics. President of AI Club.
-
 work:
   - position: Machine Learning Researcher
     company_name: University of Florida
-   # company_url: 'https://ai.meta.com/'
+    # company_url: 'https://ai.meta.com/'
     icon: ''
     date_start: 2023-12-01
     date_end: ''
     summary: |2-
-      Working on American Sign Language (ASL) character classification with a dataset of 43,000 images (200 GB).  
-      Improving 3D brain MRI segmentation using hybrid Swin-UNet architectures and attention mechanisms.  
-      Exploring spectral reconstruction and medical image analysis with PyTorch and Python.  
+      Working on American Sign Language (ASL) character classification with a dataset of 43,000 images (200 GB).
+      Improving 3D brain MRI segmentation using hybrid Swin-UNet architectures and attention mechanisms.
+      Exploring spectral reconstruction and medical image analysis with PyTorch and Python.
 
-### Machine Learning Researcher  Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: Machine Learning Researcher
     company_name: Hebei University of Technology
     # company_url: 'https://openai.com/'
@@ -105,8 +99,8 @@ work:
     date_start: 2020-09-01
     date_end: 2023-05-31
     summary: |
-      Developed facial expression recognition models under mask occlusion using ResNet, VGG19, and Swin Transformer.  
-      Built a GAN-based pipeline to repair occluded facial expressions and a real-time expression detection system.  
+      Developed facial expression recognition models under mask occlusion using ResNet, VGG19, and Swin Transformer.
+      Built a GAN-based pipeline to repair occluded facial expressions and a real-time expression detection system.
       Worked on non-contact heart-rate estimation from facial video using FastICA and ICEEMDAN.
     
   - position: Research Assistant
@@ -116,31 +110,30 @@ work:
     date_start: 2018-03-01
     date_end: 2019-04-30
     summary: |
-      Design & Implementation of Laboratory Detection Control System based on PLC.
-
-
+      Design & implementation of a laboratory detection control system based on PLC.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & Java & C++ & SQL & MATLAB
+      - name: Python · Java · C++ · SQL · MATLAB
         description: ''
         percent: 95
-        icon: code-bracket
-      - name: PyTorch & Tensorflow & Keras & scikit-learn & CUDA
+        icon: code
+      - name: PyTorch · TensorFlow · Keras · scikit-learn · CUDA
         description: ''
         percent: 95
-        icon: code-bracket
-      - name: Machine Learning & Computer Vision & Large Language Model
+        icon: cpu-chip
+      - name: Machine Learning · Computer Vision · LLM
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: sparkles
       - name: Cloud Computing (AWS/GCP)
         description: ''
         percent: 85
         icon: cloud
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -148,15 +141,15 @@ skills:
       - name: Hiking
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: map
       - name: Photography 
         description: ''
         percent: 90
-       # icon: cpu-chip
+        icon: camera
       - name: Painting
         description: ''
         percent: 70
-      #  icon: book-open
+        icon: paint-brush
 
 languages:
   - name: English
@@ -164,14 +157,11 @@ languages:
   - name: Chinese
     percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards (currently disabled)
 # awards:
 #  - title: Best Paper Award
 #    url: https://neurips.cc/
- #   date: '2022-12-01'
+#    date: '2022-12-01'
 #    awarder: NeurIPS
 #    icon: hero/trophy
 #    summary: |
