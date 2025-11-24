@@ -183,7 +183,7 @@ languages:
 ---
 I am Chencheng (Charlotte) Qi, a postgraduate researcher in Electronic & Computer Engineering at the University of Florida, focusing on Machine Learning and Computer Vision. My work centers on building robust learning systems for visual understanding, medical imaging, and multimodal signal analysis.
 
-At UF, I developed efficient data pipelines and attention-enhanced deep learning models for American Sign Language classification, and improved 3D brain MRI segmentation by integrating Swin-UNet features into nnU-Net. Previously, I created a large-scale masked facial expression dataset, designed a Swin Transformer–based model for occluded expression recognition, and explored non-contact heart-rate estimation using FastICA and ICEEMDAN.
+At UF, I developed efficient data pipelines and attention-enhanced deep learning models for American Sign Language classification, and improved 3D brain MRI segmentation by integrating Swin-UNet features into nnU-Net. Previously, I created a large-scale masked facial expression dataset, designed a Swin Transformer–based model for occluded expression recognition, and explored non-contact heart-rate estimation using signal processing.
 
 I enjoy combining rigorous engineering with practical, real-world applications. My broader research interests include representation learning, multimodal fusion, and human-centered AI. Ultimately, I aim to develop reliable, interpretable, and deployable machine learning systems to serve people, improve the quality of life, and help address real-world challenges. Outside of research, I enjoy hiking, painting, photography, and exploring creative ways to connect art with technology.
 
