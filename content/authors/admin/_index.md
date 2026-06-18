@@ -27,7 +27,7 @@ role: Machine Learning Research
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: c.qi@ufl.edu
+  - name: ccqi.dev@gmail.com
   - name: +1 3522461488
     # url: https://ai.meta.com/
 
@@ -35,7 +35,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
 #  - icon: at-symbol
-#    url: c.qi@ufl.edu
+#    url: ccqi.dev@gmail.com
 #    label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/AlexAIResearch
